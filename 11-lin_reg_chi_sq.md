@@ -8,7 +8,7 @@ output: pdf_document
 Linear Regression and Chi-Squared Test of Independence.
 GWAS, eQTLs.
 
-11.1 Brief review of linear models
+## Brief review of linear models
 
 A linear model is a simple way to demonstrate a relationship between two variables. The most powerful statistical tools to process sequencing data exploit the relationship between linear models and hypothesis testing. When we utilize hypothesis testing with linear models, it allows us to ascribe significance to relationships in the data. This is useful in techniques such as Genome Wide Association Studies (GWAS), where we seek to uncover relationships between genetic patterns and certain phenotypes or diseases. Some might even consider linear models to be a simple form of machine learning! The equation for a linear model is given below:
 
