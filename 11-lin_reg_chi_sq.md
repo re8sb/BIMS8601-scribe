@@ -5,8 +5,7 @@ date: "4/4/2022"
 output: pdf_document
 ---
 
-Linear Regression and Chi-Squared Test of Independence.
-GWAS, eQTLs.
+## Linear Regression and Chi-Squared Test of Independence (Applications to GWAS).
 
 ## Brief review of linear models
 
