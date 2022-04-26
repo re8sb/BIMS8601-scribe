@@ -16,7 +16,7 @@ GWAS, eQTLs.
 
 A linear model is a simple way to demonstrate a relationship between two variables. The most powerful statistical tools to process sequencing data exploit the relationship between linear models and hypothesis testing. When we utilize hypothesis testing with linear models, it allows us to ascribe significance to relationships in the data. This is useful in techniques such as Genome Wide Association Studies (GWAS), where we seek to uncover relationships between genetic patterns and certain phenotypes or diseases. Some might even consider linear models to be a simple form of machine learning! The equation for a linear model is given below:
 
-![alt text here](scribe/reg_eq.png)
+![alt text here](figs/reg_eq.png)
 This can be referred to as the standard statistical model:  y is a linear function of x plus random noise; y is the dependent variable, and x is the independent variable.
 
 There are several numerical approaches to finding the parameters of a linear model if they must be determined. One such method is called the "Method of Least Squares", and it involves optimizing the beta parameters such that we minimize the sum of squared residuals. We can write this as the following equation:
