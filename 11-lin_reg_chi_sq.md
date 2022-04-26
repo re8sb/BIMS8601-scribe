@@ -22,11 +22,7 @@ Where S is the sum of squared residuals. Another way of thinking of this is mini
 ![alt text here](figs/least_sq_graph.png)
 ### 11.2 Relation to Hypothesis Testing
 
-We can define the residual sum of squares (RSS) as the following:
-
-#insert image
-
-If the errors are independent normal random variables, then the \beta parameters are normally distributed with:
+First, we can define the residual sum of squares (RSS) of our data. If the errors are independent normal random variables, then the \beta parameters are normally distributed with:
 
 ![alt text here](figs/t_dist.png)
 Where t_{n-2} is a t-distribution with n-2 degrees of freedom. Then, we can test the null hypothesis H_0:  \beta_1 = 0. A rejection of this null hypothesis would indicate that the slope of the regression line is non-zero; therefore, a relationship exists between the dependent and independent variable. 
